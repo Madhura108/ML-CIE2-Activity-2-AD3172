@@ -239,8 +239,8 @@ Through this activity, the following concepts were practiced:
 
 ## 👤 Author
 
-**Student: Mitali M Humbre  
-**Roll Number: AD3166  
+**Student: Madhura Jagtap 
+**Roll Number: AD3172  
 **Course: Machine Learning  
 **Activity: CIE 2  
 **Repository: Public GitHub Repository
